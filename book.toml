@@ -1,0 +1,6 @@
+[book]
+authors = ["oddcoder"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rair Book"
